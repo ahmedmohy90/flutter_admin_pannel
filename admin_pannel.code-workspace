@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "admin_pannel",
+		"path": "."
+	},
+	{
+		"name": "assets",
+		"path": "../start_admin_pannel/Admin-Panel-Starter-Kit/assets"
+	}
+],
+  "settings": {}
+}
